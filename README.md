@@ -16,13 +16,21 @@ Kế hoạch học lại tiếng Anh từ đầu để giao tiếp và đi phỏ
 | [phase-3-it-english.md](phase-3-it-english.md) | Tuần 18–26: tiếng Anh trong công việc IT |
 | [phase-4-interview.md](phase-4-interview.md) | Tuần 27–39: luyện phỏng vấn IT |
 | [resources.md](resources.md) | Tài nguyên học và cách dùng |
+| [lessons/phase-1](lessons/phase-1/README.md) | Bài học tuần 1–8: phát âm IPA, ngữ pháp, từ vựng, bài tập có đáp án |
+| [lessons/phase-2](lessons/phase-2/README.md) | Bài học tuần 9–17: mẫu câu, hội thoại mẫu, câu hỏi luyện nói |
+| [lessons/phase-3](lessons/phase-3/README.md) | Bài học tuần 18–26: từ vựng IT, bài giải thích kỹ thuật mẫu, mẫu email/PR/CV |
+| [lessons/phase-4](lessons/phase-4/README.md) | Bài học tuần 27–39: câu trả lời phỏng vấn mẫu, STAR, coding, system design |
+| [interview/question-bank.md](interview/question-bank.md) | 110 câu hỏi phỏng vấn IT có câu trả lời mẫu |
+| [interview/phrasebook.md](interview/phrasebook.md) | 165 mẫu câu dùng khi phỏng vấn |
 | [interview/answers.md](interview/answers.md) | Nơi viết câu trả lời phỏng vấn của chính mình |
 | [log/progress.md](log/progress.md) | Nhật ký học mỗi tuần |
 | [log/vocabulary.md](log/vocabulary.md) | Sổ từ vựng, cụm từ hay |
 
+> Các link tài liệu bên ngoài chưa được kiểm tra tự động; báo lại nếu link nào hỏng.
+
 ## Cách dùng
 
-1. Mỗi sáng mở file giai đoạn hiện tại, làm đúng việc của ngày hôm đó.
+1. Mỗi sáng mở file giai đoạn hiện tại để xem việc của ngày, rồi mở bài học của tuần đó trong `lessons/` để học nội dung.
 2. Cuối tuần (Thứ 7) ghi lại vào `log/progress.md`: đã làm được gì, khó ở đâu, link file ghi âm.
 3. Đánh dấu `[x]` vào checklist của tuần khi xong, commit lên repo. Lịch sử commit chính là chuỗi ngày học của bạn.
 4. Ngày bận: chỉ làm **bản tối thiểu 15 phút** (Anki + shadowing 5 phút) để không đứt chuỗi.
